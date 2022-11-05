@@ -32,13 +32,13 @@ function mergeSortedArrays2(array1,array2) {
     let array1Item = array1[0]; // 0
     let array2Item = array2[0]; // 4
 
-    /* The counter is started at one because 
-    if not we will repeat the first elements of each array
+    /* We start i and j with 1 , so the first element of both arrays 
+    is not repeated
     */
     let i = 1;
     let j = 1;
 
-    // Checking the input
+    // Checking for the input given
     if (array1.length === 0) {
         return array2;
     }
