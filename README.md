@@ -7,6 +7,6 @@
 ### Arrays
 | Question       | Difficulty| Solutions |
 |  ----:         |-----------| ----:     |
-| Reverse String |Easy||
+| Reverse String |Easy|[Solution](https://github.com/pedrocor12/LeetCode/tree/main/Javascript/Arrays)|
 |                |           |           |  
 |                |           |           |
