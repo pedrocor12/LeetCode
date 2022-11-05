@@ -7,6 +7,6 @@
 ### Arrays
 | Question       | Difficulty| Solutions |
 |  ----:         |-----------| ----:     |
-| Reverse String |           |           |
+| Reverse String |Easy||
 |                |           |           |  
 |                |           |           |
