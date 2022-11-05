@@ -7,6 +7,6 @@
 ### Arrays
 | Question       | Difficulty| Solutions |
 |  ----:         |-----------| ----:     |
-| Reverse String | Javascript|           |
-|                | Python    |           |  
-|                | SQL       |           |
+| Reverse String |           |           |
+|                |           |           |  
+|                |           |           |
