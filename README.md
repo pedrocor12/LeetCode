@@ -9,4 +9,4 @@
 |  :----        |-----------| ----:     |
 | Reverse String |Easy|[Solution](https://github.com/pedrocor12/LeetCode/blob/main/Javascript/Arrays/reverseString.js)|
 | Merge sorted arrays|Easy|[Solution](https://github.com/pedrocor12/LeetCode/blob/main/Javascript/Arrays/mergeSortedArrays.js)|  
-|                |           |           |
+| Contains Duplicates|Easy|[Solution](https://github.com/pedrocor12/LeetCode/blob/main/Javascript/Arrays/containsDuplicate.js)|
