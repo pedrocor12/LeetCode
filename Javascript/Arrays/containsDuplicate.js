@@ -23,8 +23,7 @@ const containsDuplicates2 = function(nums) {
 
     return set.size !== nums.length 
 
-    // Time complexity : O(n)
-    // As we are iterating of the numbers on the Set operation
+    // Time complexity : O(n) - because of the set method which iterates over the array
 }
 
 
