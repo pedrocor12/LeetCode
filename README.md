@@ -12,3 +12,12 @@
 | Contains Duplicates|Easy|[Solution](https://github.com/pedrocor12/LeetCode/blob/main/Javascript/Arrays/containsDuplicate.js)|
 |isAnagram|Easy|[Solution](https://github.com/pedrocor12/LeetCode/blob/main/Javascript/Arrays/isAnagram.js)|
 |twoSum|Easy|[Solution](https://github.com/pedrocor12/LeetCode/blob/main/Javascript/Arrays/twoSum.js)|
+
+
+
+## Python 
+
+### Arrays
+| Question       | Difficulty| Solutions |
+|  :----        |-----------| ----:     |
+| Remove Duplicates |Easy|[Solution](https://github.com/pedrocor12/LeetCode/blob/main/Python/Arrays/removeDuplicates.py)|
