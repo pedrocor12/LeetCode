@@ -1,7 +1,5 @@
 # Interview Preparation
 
-### The following repo was created with the intention of documenting the journey into algorithmetic mastery
-
 ## Javascript 
 
 ### Arrays
@@ -21,3 +19,5 @@
 | Question       | Difficulty| Solutions |
 |  :----        |-----------| ----:     |
 | Remove Duplicates |Easy|[Solution](https://github.com/pedrocor12/LeetCode/blob/main/Python/Arrays/removeDuplicates.py)|
+| Remove Element | Easy |[Solution](https://github.com/pedrocor12/LeetCode/blob/main/Python/Arrays/removeElement.py)|
+
