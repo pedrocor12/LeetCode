@@ -3,7 +3,7 @@ class Solution:
         score_stack = []
 
         for operation in operations:
-            if operation == "+":
+            if operation == "+" and len(score_stack) >= 2:
                 summed = score_stack[-2] + score_stack[-1]
                 score_stack.append(summed)
 
