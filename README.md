@@ -20,4 +20,8 @@
 |  :----        |-----------| ----:     |
 | Remove Duplicates |Easy|[Solution](https://github.com/pedrocor12/LeetCode/blob/main/Python/Arrays/removeDuplicates.py)|
 | Remove Element | Easy |[Solution](https://github.com/pedrocor12/LeetCode/blob/main/Python/Arrays/removeElement.py)|
+### Stacks
+| Question       | Difficulty| Solutions |
+|  :----        |-----------| ----:     |
+| Baseball Game |Easy|[Solution](https://github.com/pedrocor12/LeetCode/blob/main/Python/Stack/baseball_game.py)|
 
